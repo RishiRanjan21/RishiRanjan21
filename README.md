@@ -13,9 +13,9 @@ I'm a passionate tech entrepreneur and full-stack developer with deep expertise 
 - 🎯 **Tech Strategy** – Combining business acumen with deep tech insights to create game-changing products.  
 
 ### 🌍 Let's Connect  
-📧 Email: [rishi@zenquor.com](mailto:rishi@zenquor.com)  
-🔗 Website: [www.zenquor.com](https://www.zenquor.com)  
-💼 LinkedIn: [linkedin.com/in/rishiranjan](https://linkedin.com/in/rishiranjan)  
-🐦 Twitter: [@RishiRanjan21](https://x.com/RishiRanjan21)  
+📧 Email:     [rishi@zenquor.com](mailto:rishi@zenquor.com)  
+🔗 Website:   [www.zenquor.com](https://www.zenquor.com)  
+💼 LinkedIn:  [linkedin.com/in/rishiranjan](https://linkedin.com/in/rishiranjan)  
+🐦 Twitter:   [@RishiRanjan21](https://x.com/RishiRanjan21)  
 
 💡 Always open to collaborations, tech discussions, and new opportunities! 🚀  
